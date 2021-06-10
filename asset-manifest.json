@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/plui/static/js/main.75ea84d7.chunk.js",
+    "main.js.map": "/plui/static/js/main.75ea84d7.chunk.js.map",
+    "runtime-main.js": "/plui/static/js/runtime-main.31a7e4c6.js",
+    "runtime-main.js.map": "/plui/static/js/runtime-main.31a7e4c6.js.map",
+    "static/css/2.836bba42.chunk.css": "/plui/static/css/2.836bba42.chunk.css",
+    "static/js/2.5022e271.chunk.js": "/plui/static/js/2.5022e271.chunk.js",
+    "static/js/2.5022e271.chunk.js.map": "/plui/static/js/2.5022e271.chunk.js.map",
+    "static/js/3.f53ec329.chunk.js": "/plui/static/js/3.f53ec329.chunk.js",
+    "static/js/3.f53ec329.chunk.js.map": "/plui/static/js/3.f53ec329.chunk.js.map",
+    "index.html": "/plui/index.html",
+    "static/css/2.836bba42.chunk.css.map": "/plui/static/css/2.836bba42.chunk.css.map",
+    "static/js/2.5022e271.chunk.js.LICENSE.txt": "/plui/static/js/2.5022e271.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31a7e4c6.js",
+    "static/css/2.836bba42.chunk.css",
+    "static/js/2.5022e271.chunk.js",
+    "static/js/main.75ea84d7.chunk.js"
+  ]
+}
